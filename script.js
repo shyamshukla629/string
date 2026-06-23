@@ -21,5 +21,22 @@
 // console.log(str);
 
 // trim method 
- let str="     Aditya Shukla Javascript       ";
- console.log(str.trim());
+//  let str="     Aditya Shukla Javascript       ";
+//  console.log(str.trim());
+
+// slice method 
+// let str="helloaditya";
+// console.log(str.slice(0,7));
+
+// concat string 
+// let str1="Aditya";
+// let str2="Shukla";
+// console.log(str1.concat(str2));
+
+// // replace string 
+// let string ="hello";
+// console.log(string.replace("h","y"));
+
+// character at method 
+let str="Mynameisadi";
+console.log(str.charAt(9));
