@@ -38,5 +38,10 @@
 // console.log(string.replace("h","y"));
 
 // character at method 
-let str="Mynameisadi";
-console.log(str.charAt(9));
+// let str="Mynameisadi";
+// console.log(str.charAt(9));
+
+// practice question  prompt the user t o rnter their full name
+let fullName=prompt("Enter your fullname without spaces");
+let userName="@" + fullName + fullName.length;
+console.log(userName);
